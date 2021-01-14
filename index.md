@@ -10,9 +10,8 @@
 	  <p><font size="2" face="Verdana">Machine Learning </font></p>
 	  <p><font size="2" face="Verdana">Reinforcement Learning</font></p>
 	  <p><font size="2" face="Verdana"> neural network</font></p>
-	  <p><font size="2" face="Verdana"> Multi-Agent system optimization</font></p>
-	  
-	  </font></p>
+	  <p><font size="2" face="Verdana"> Multi-Agent system optimization</font></p>  
+	</font></p>
     </td>
   </tr>
 </table>
